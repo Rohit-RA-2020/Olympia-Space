@@ -16,10 +16,11 @@ body {
 }
 
 header {
+  padding: 25px;
   text-align: center;
-  background: black;
-  color: #fff;
-  padding: 10px;
+  background: yellow;
+  color: black;
+  font-size: 30px;
 }
 
 footer {
